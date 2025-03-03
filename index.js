@@ -82,9 +82,9 @@ async function sendEther(toAddress, amount, gasPrice, nonce) {
 // Main process
 async function main() {
   cfonts.say("AIRDROPHOKA", {
-    font: "block",
+    font: "slick",
     align: "center",
-    colors: ["cyan", "magenta"],
+    colors: ["blue", "yellow"],
     background: "black",
     letterSpacing: 1,
     lineHeight: 1,
